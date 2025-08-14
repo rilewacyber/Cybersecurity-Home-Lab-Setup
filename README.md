@@ -77,9 +77,9 @@ For the Sales, HR, and Audit PCs, you can use the same **Windows 8 ISO** file.
 ## Checking the Server IP Address
 
 ![Server IP Check](./lab10.png)  
-Open **CMD** and run:  
-```bash
+Open **CMD** and run ```bash
 ipconfig
+
 
 ---
 ## Lab 11: Installing Parrot OS
